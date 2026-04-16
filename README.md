@@ -77,4 +77,3 @@ Một thuật toán lặp dùng để tìm ước lượng hợp lệ tối đa 
 
 
 ---
-*Phát triển và tổng hợp bởi [Nguyễn Minh Hiếu] - 2026*
